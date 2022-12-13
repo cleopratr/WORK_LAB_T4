@@ -27,13 +27,13 @@ O código apresentado utiliza uma blibioteca nomeada **ordvetor.h** encontrada n
 
 > **Após ascessar a pasta com o código no terminal, digite:**
 > 
-> cd WORK_LAB_T4
+> ```cd WORK_LAB_T4```
 >
-> gcc T4_540344 -o T4_540344
+> ```gcc T4_540344 -o T4_540344```
 > 
 > **Para executar seu código, ainda no terminal digite:** 
 > 
-> ./T4_540344
+> ```./T4_540344```
 
 # Funcionalidades do código
 
