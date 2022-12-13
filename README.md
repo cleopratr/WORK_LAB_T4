@@ -11,7 +11,6 @@
 * [Como baixar](#como-baixar)
 * [Como compilar e executar](#como-compilar-e-executar)
 * [Funcionalidades do Código](#funcionalidades-do-código)
-* [Desenvolvedor](#desenvolvedor)
 
 # DESCRIÇÃO DO CÓDIGO 
 
@@ -41,7 +40,4 @@ O código apresentado utiliza uma blibioteca nomeada **ordvetor.h** encontrada n
 - `Funcionalidade 1`: Cria um vetor
 - `Funcionalidade 2`: Adiciona elementos ao vetor
 - `Funcionalidade 3`: Remove elementos do vetor
-
-# Desenvolvedor
-RAYANNE MOTA MAIA (https://github.com/cleopratr)
 
