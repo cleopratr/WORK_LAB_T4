@@ -37,7 +37,8 @@ O código apresentado utiliza uma blibioteca nomeada **ordvetor.h** encontrada n
 
 # Funcionalidades do código
 
-- `VETORD_create`: Recebe um inteiro n e um ponteiro compara do tipo COMP. Esta função cria um vetor ordenado
-- `VETORD_add`: Recebe um ponteiro vetor VETORORD e um ponteiro newelem do tipo void. Esta função adiciona um elemento ao vetor
-- `VETORD_remove`: Recebe o ponteiro vetor do tipo VETORORD e retorna lixo, esta função remove um elemento do vetor
+- `VETORD_create`: Recebe um inteiro n e um ponteiro para uma função do tipo COMP. Esta função cria um vetor ordenado com uma função comparador interna para ordenação.
+- `VETORD_add`: Recebe um ponteiro vetor VETORORD e um ponteiro newelem do tipo void. Esta função adiciona um elemento ao vetor.
+- `VETORD_remove`: Recebe o ponteiro vetor do tipo VETORORD e retorna o primeiro elemento, removendo-o da lista.
+
 
