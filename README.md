@@ -37,7 +37,7 @@ O código apresentado utiliza uma blibioteca nomeada **ordvetor.h** encontrada n
 
 # Funcionalidades do código
 
-- `Funcionalidade 1`: Cria um vetor
-- `Funcionalidade 2`: Adiciona elementos ao vetor
-- `Funcionalidade 3`: Remove elementos do vetor
+- `VETORD_create`: Cria um vetor
+- `VETORD_add`: Adiciona elementos ao vetor
+- `VETORD_remove`: Remove elementos do vetor
 
